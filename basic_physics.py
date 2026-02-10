@@ -90,5 +90,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+<<<<<<< HEAD
     print("\nAll calculations completed successfully!")
     # Test
+=======
+    print("Thank you for using the Basic Physics Calculator!")
+>>>>>>> 520b155972489781aed79cfba9b6b6b12032200b
