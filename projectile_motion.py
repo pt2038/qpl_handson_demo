@@ -56,7 +56,7 @@ def main():
     angles = [30, 45, 60]  # degrees
     
     for angle in angles:
-        print(f"\n Launch Angle: {angle}°")
+        print(f"\nLaunch Angle: {angle}°")
         print("-" * 50)
         
         results = calculate_projectile_motion(initial_velocity, angle)
